@@ -1,0 +1,14 @@
+{
+  "name": "pac-api-typings",
+  "version": "0.1.0",
+  "description": "Type definitions for JavaScript APIs of PAC in TypeScript",
+  "main": "index.d.ts",
+  "types": "index.d.ts",
+  "keywords": [
+    "pac",
+    "proxy"
+  ],
+  "author": "Qingrong Ke <keqingrong@outlook.com> (https://keqingrong.github.io/)",
+  "license": "MIT",
+  "repository": "keqingrong/pac-api-typings"
+}
